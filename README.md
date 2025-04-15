@@ -2,7 +2,7 @@
 
 A simple, offline-first project tracker built with React, Zustand, and Tailwind CSS. Organize your project sections and tasks, estimate effort using Fibonacci-like values, and track completion. Features Markdown import/export and PERT-like project estimation based on section certainty.
 
-![Screenshot](placeholder.png) <!-- TODO: Add a screenshot of your app -->
+![Screenshot](screenshot.png) <!-- TODO: Add a screenshot of your app -->
 
 ## Features
 
