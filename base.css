@@ -1,0 +1,18 @@
+/* Inject Tailwind's base, components, and utilities styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply base font families */
+body {
+  font-family: theme("fontFamily.sans"); /* Use Inter as default */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: theme("fontFamily.serif"); /* Use Spectral for headings */
+}
